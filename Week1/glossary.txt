@@ -1,0 +1,3 @@
+for compiling : $ gcc [programName].c -o programName
+
+for making a c file : $ gedit sampleProgram.c
